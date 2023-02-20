@@ -1,0 +1,48 @@
+февр. 20, 2023 12:58:32 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 9, 5, 2, 3, 8, 7]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 5, 9, 2, 3, 8, 7]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 5, 2, 9, 3, 8, 7]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 5, 2, 3, 9, 8, 7]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 5, 2, 3, 8, 9, 7]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 5, 2, 3, 8, 7, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 5, 2, 3, 8, 7, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 2, 5, 3, 8, 7, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 2, 3, 5, 8, 7, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 2, 3, 5, 8, 7, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 2, 3, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [4, 2, 3, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 4, 3, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
+февр. 20, 2023 12:58:33 PM HomeWorkJava.HomeWork2.Task1 main
+INFO: [2, 3, 4, 5, 7, 8, 9]
